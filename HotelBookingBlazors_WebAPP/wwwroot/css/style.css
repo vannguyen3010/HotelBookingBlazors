@@ -496,11 +496,11 @@
     padding: 1rem 1rem 1rem 3.7rem;
     color: white;
 }
+.darker-border-checkbox.form-check-input {
+    border-color: #929292;
+}
 
 .blazor-error-boundary::after {
     content: "An error has occurred."
 }
 
-.darker-border-checkbox.form-check-input {
-    border-color: #929292;
-}
